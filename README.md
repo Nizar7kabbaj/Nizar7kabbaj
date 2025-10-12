@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Nizar Kabbaj
 
-[LinkedIn](https://www.linkedin.com/in/nizar-kabbaj) | [Portfolio](#) | [Twitter](#) | [Instagram](#) | [Medium](#) | [Discord](#)
+[LinkedIn](https://www.linkedin.com/in/nizar-kabbaj) | [Instagram](https://www.instagram.com/nizar.kabbaj) |
 
 ---
 
