@@ -4,7 +4,7 @@ Engineering Student | Web & Mobile Development | Data Engineering & Cloud Comput
 
 ## 📫 How to reach me
 
-📧 [Your Email] | 💼 [LinkedIn](https://www.linkedin.com/in/nizar-kabbaj) | 📸 [ Instagram](https://www.instagram.com/nizar.kabbaj)
+📧 [Your Email](nizar.kabbaj@edu.isga.ma) | 💼 [LinkedIn](https://www.linkedin.com/in/nizar-kabbaj) | 📸 [ Instagram](https://www.instagram.com/nizar.kabbaj)
 
 ---
 
