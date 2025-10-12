@@ -1,71 +1,48 @@
-# Hi there 👋, my name is Nizar Kabbaj
+## Hi there 👋, my name is Nizar kabbaj
 
-[LinkedIn](https://www.linkedin.com/in/nizar-kabbaj) | [Instagram](https://www.instagram.com/nizar.kabbaj) |
+Engineering Student | Web & Mobile Development | Data Engineering & Cloud Computing | Passionate About AI & Innovative Tech
 
----
+## 📫 How to reach me
 
-🙋‍♂️ **About me**
-
-I'm from **Morocco 🇲🇦**, currently studying in **Paris, France 🇫🇷**. I'm passionate about **Artificial Intelligence**, **Big Data**, and **Data Science**. As an **IT Developer** and **aspiring Data Scientist**, I specialize in **web and mobile development**, **deep learning**, and **computer vision**. 
-
-With experience spanning full-stack development, machine learning, and cloud computing, I combine technical expertise with creative thinking to design scalable, high-performance, and user-centered solutions. When I'm not coding, you can find me exploring tech innovations or learning new frameworks to solve real-world problems.
+📧 [Your Email] | 💼 [LinkedIn](https://www.linkedin.com/in/nizar-kabbaj) | 📸 [ Instagram](https://www.instagram.com/nizar.kabbaj)
 
 ---
 
-🔭 **I'm currently working on**
+## 🙋‍♂️ About Me
 
-- **Master's degree in Data Engineering & Cloud Computing** at Aivancity Paris-Cachan 🎓
-- Deep learning and computer vision projects, including **violence detection** and **automated object recognition systems** 🤖
-- Building **scalable data pipelines** and **cloud-native applications** ☁️
-- Freelancing as a web developer, building modern, responsive websites using **JavaScript**, **React**, **Node.js**, and **WordPress** 💻
+I'm an AI and Data Engineering specialist with a strong foundation in software engineering, currently pursuing a Master's degree in Data Engineering & Cloud Computing at Aivancity School for Technology, Business & Society (double diplomation program).
 
----
+My recent internships showcase my ability to develop production-ready systems:
+- **AI-powered theft detection system** using YOLOv8 and CNN+BiLSTM for real-time security analytics
+- **Violence detection systems** integrated with alert mechanisms for immediate response
 
-🌱 **I'm currently learning**
-
-- **AI/ML**: Advanced techniques in deep learning, natural language processing, and neural networks optimization 🤖
-- **Cloud Computing**: AWS, GCP, Azure architecture and cloud-native development ☁️
-- **DevOps**: Containerization with Docker and Kubernetes for scalable deployments 📦
-- **Big Data Technologies**: Data warehousing, ETL pipelines, and advanced analytics 📊
+I'm driven by the opportunity to create impactful solutions at the intersection of AI, cloud infrastructure, and business strategy—where technical excellence meets real-world impact.
 
 ---
 
-🔨 **Technologies I work with**
+## 🔨 Technical Expertise
 
-**Languages & Frameworks**
-- **Python** 🐍 (TensorFlow, PyTorch, Scikit-learn, Pandas, Django)
-- **JavaScript & TypeScript** (React, Node.js, Express)
-- **Mobile**: Flutter, React Native
-- **Web**: HTML5, CSS3, Bootstrap
-- **Databases**: SQL, MongoDB, MySQL, PostgreSQL
+**AI & Machine Learning**
+Computer vision, deep learning frameworks (PyTorch, TensorFlow), YOLO object detection, CNN, BiLSTM, MobileNet
 
-**Specializations**
-- **Deep Learning & Computer Vision** 👁️ (Object Detection, Image Classification, Violence Detection)
-- **Web & Mobile Development** 📱 (Full-stack, Responsive Design)
-- **Cloud Computing & Data Engineering** ☁️ (AWS, Azure, GCP)
-- **Data Analytics & Business Intelligence** 📊
-- **RESTful APIs & Microservices Architecture** 🔌
-- **CMS Development** (WordPress, Odoo)
+**Data Engineering & Analytics**
+Big Data technologies, ETL pipeline design, cloud ecosystems (AWS, Azure, Google Cloud), data warehousing, statistical modeling
 
----
+**Software Development**
+Python, Java, C++, web technologies (HTML, CSS, JavaScript, React), mobile development (Android, iOS)
 
-✍️ **Featured Projects & Achievements**
+**Cloud Computing & DevOps**
+Real-time systems, remote server deployment, DevOps practices, database management (SQL, MongoDB, Oracle)
 
-- **Violence Detection System** — Deep learning project using Python and computer vision frameworks for real-time threat detection 🤖
-- **Automated Object Recognition** — AI-powered image processing and classification system for practical applications 📸
-- **Responsive Web Solutions** — Modern, user-centered websites built with JavaScript, React, and Bootstrap for clients 🌐
-- **Freelance Web Development** — Custom solutions using WordPress and modern web technologies delivering scalable results 💼
+**Problem-Solving & Innovation**
+System integration, end-to-end solution architecture, responsible AI practices, data governance
 
 ---
 
-💬 **How to reach me**
+## 🌱 Key Skills
 
-- [LinkedIn](https://www.linkedin.com/in/nizar-kabbaj)
-- Email: [Your Email Here]
-- [Twitter](#)
-- [Discord](#)
-- [Portfolio/Blog](#)
-
----
-
-**Let's collaborate on innovative AI, data engineering, and full-stack development projects!** 🚀
+- Python Programming & AI Frameworks
+- Web & Mobile Development
+- Data Engineering & Analytics
+- Cloud Computing
+- Problem-Solving & Innovation
