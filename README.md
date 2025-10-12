@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Nizar kabbaj
 
-Engineering Student | Web & Mobile Development | Data Engineering & Cloud Computing | Passionate About AI & Innovative Tech
+Passionate about building intelligent systems that solve real-world problems through cutting-edge AI and cloud technologies.
 
 ## 📫 How to reach me
 
