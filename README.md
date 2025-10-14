@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Nizar kabbaj
+## Hi there 👋, my name is Nizar Kabbaj
 
 Passionate about building intelligent systems that solve real-world problems through cutting-edge AI and cloud technologies.
 
