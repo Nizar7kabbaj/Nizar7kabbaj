@@ -14,21 +14,21 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nizar7kabbaj&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Focus-Cloud%20Security%20%2B%20AI-00D4AA?style=for-the-badge" alt="Focus: Cloud Security + AI" />
 <img src="https://img.shields.io/badge/Location-Morocco-C1272D?style=for-the-badge" alt="Location: Morocco" />
 
 <br />
 <br />
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com/in/nizar-kabbaj">
+  <img src="https://img.shields.io/badge/LinkedIn-nizar-kabbaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/Nizar7kabbaj">
+  <img src="https://img.shields.io/badge/GitHub-Nizar7kabbaj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:nizarkabbaj8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nizarkabbaj8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -121,26 +121,16 @@ Cloud Security for AI Systems
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nizar7kabbaj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=00d4aa&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 <br />
 <br />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=00d4aa&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-<br />
-<br />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-<br />
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=00d4aa" alt="Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nizar7kabbaj&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=00d4aa" alt="Contribution Graph" />
 
 </div>
 
@@ -151,16 +141,6 @@ Cloud Security for AI Systems
 > I build AI systems, then secure the infrastructure around them.
 
 That means I do not stop at model training. I work on the system around the model: APIs, data pipelines, cloud resources, containers, secrets, alerts, logs, and privacy controls.
-
----
-
-## Replace Before Publishing
-
-```text
-YOUR_GITHUB_USERNAME
-YOUR_LINKEDIN_USERNAME
-YOUR_EMAIL
-```
 
 ---
 
