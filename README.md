@@ -23,15 +23,17 @@
 
 ## About
 
-I build AI systems and secure the infrastructure around them.
+Everyone wants to train the AI model. I'm more interested in the part nobody talks about: making the  system around it secure and stable enough to actually run.
 
-Not just the model. The full stack: APIs, data pipelines, cloud resources, containers, secrets management, alerting, audit logs, privacy controls. Everything the model depends on to run in production.
+I'm a final-year engineering student in a dual-degree program at ISGA and  Aivancity, and that's the work I keep coming back to. Across three  internships I've built the same thing from different angles. A Django  document manager with real GDPR Article 17 erasure and role-based access control. A FastAPI violence-alert backend with JWT authentication, rate  limiting, and a full STRIDE threat model. And now my final-year project: a real-time detection platform running on a hardened Ubuntu 26.04 host, with Terraform-managed Azure infrastructure and policy-as-code that blocks insecure setups before they reach the repo.
 
-My flagship project is a real-time theft detection platform. YOLOv8 pose estimation, an explainable bend rule, and an LSTM behavior classifier feed a FastAPI backend with MongoDB Atlas storage and Telegram alerts. Underneath sits a full engineering build: a hardened Ubuntu host, Terraform-managed Azure infrastructure, policy-as-code, container supply-chain security, observability, and a disaster recovery pipeline with a validated restore drill.
+The direction clicked during an internship where I ran the server side of an AI system. The model got all the attention, but the real challenge  was keeping the infrastructure secure and the training stable enough for  any of it to work. That's when infrastructure and security stopped being a task on a list and became the thing I want to be good at.
 
-The same pattern runs through every project I ship. RBAC, audit logs, GDPR data rights, rate limiting, signed artifacts, container scanning. Built in from the start, not added after.
+The way I see it, most engineering work is becoming something an AI assistant can do. Security is different. It needs adversarial thinking, judgment under uncertainty, and a human who signs off when something breaks. That's the part I want to spend my time on.
 
-I learn by building.
+I work slowly and I verify everything. I'd rather understand why something works than paste it in and hope. Outside the keyboard, I train and stay active. Sport is where I think clearly.
+
+Always happy to talk about cloud security, secure MLOps, or the infrastructure side of AI systems. Reach out anytime.
 
 ---
 
@@ -98,11 +100,12 @@ Cloud Security for AI Systems
 
 ## Selected Work
 
-| Project | Stack | Focus |
-|---------|-------|-------|
-| **Theft Detection Platform** | YOLOv8, LSTM, FastAPI, Terraform, Azure, Docker | Real-time AI detection on hardened, Terraform-managed cloud infrastructure |
-| **Violence Alert System** | FastAPI, async, JWT, MongoDB, Prometheus | Production-grade async ML backend with STRIDE threat model and observability |
-| **SecureDocs** | Django, scikit-learn, Tesseract OCR, RBAC | Document manager with AI classification, audit logging, and GDPR erasure |
+| Year | What I Built | What I Learned |
+|------|-------------|----------------|
+| 2023 | SecureDocs | Django, MySQL, OCR, RBAC, GDPR |
+| 2024 | Violence Alert System | FastAPI, async backend, JWT, MongoDB, metrics |
+| 2025 | AI infrastructure | Linux hardening, Cloudflare, GPU deployment |
+| 2026 | Theft Detection Platform | Real-time AI, Azure, DevSecOps, MLOps |
 
 ---
 
