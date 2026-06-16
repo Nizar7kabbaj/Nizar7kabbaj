@@ -11,13 +11,6 @@
   />
 </a>
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=Nizar7kabbaj&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
-
-<br />
-<br />
-
 ### Open to collaboration on cloud security, DevSecOps, MLOps, and secure backend engineering.
 
 <a href="https://www.linkedin.com/in/nizar-kabbaj/">
