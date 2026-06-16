@@ -5,13 +5,28 @@
 ### Cloud Security · DevSecOps · MLOps · AI Systems · Backend
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+secure+the+infrastructure+AI+systems+run+on;Terraform+%7C+Azure+%7C+Kubernetes+%7C+Linux+Hardening;FastAPI+%7C+gRPC+%7C+MongoDB+%7C+Observability;DevSecOps+%7C+Policy+as+Code+%7C+Supply+Chain+Security"
+  <img width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=I+secure+the+infrastructure+AI+systems+run+on;Terraform+%7C+Azure+%7C+Kubernetes+%7C+Linux+Hardening;FastAPI+%7C+gRPC+%7C+MongoDB+%7C+Observability;DevSecOps+%7C+Policy+as+Code+%7C+Supply+Chain+Security"
     alt="Typing SVG"
   />
 </a>
 
 <br />
+
+<img src="https://komarev.com/ghpvc/?username=Nizar7kabbaj&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+<br />
+<br />
+
+### Open to collaboration on cloud security, DevSecOps, MLOps, and secure backend engineering.
+
+<a href="https://www.linkedin.com/in/nizar-kabbaj/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nizar%20Kabbaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nizarkabbaj8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nizarkabbaj8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <br />
 
 <img src="https://img.shields.io/badge/Focus-Cloud%20Security%20for%20AI%20Systems-00D4AA?style=for-the-badge" />
@@ -23,11 +38,11 @@
 
 ## About
 
-Everyone wants to train the AI model. I'm more interested in the part nobody talks about: making the  system around it secure and stable enough to actually run.
+Everyone wants to train the AI model. I'm more interested in the part nobody talks about: making the system around it secure and stable enough to actually run.
 
-I'm a final-year engineering student in a dual-degree program at ISGA and  Aivancity, and that's the work I keep coming back to. Across three  internships I've built the same thing from different angles. A Django  document manager with real GDPR Article 17 erasure and role-based access control. A FastAPI violence-alert backend with JWT authentication, rate  limiting, and a full STRIDE threat model. And now my final-year project: a real-time detection platform running on a hardened Ubuntu 26.04 host, with Terraform-managed Azure infrastructure and policy-as-code that blocks insecure setups before they reach the repo.
+I'm a final-year engineering student in a dual-degree program at ISGA and Aivancity, and that's the work I keep coming back to. Across three internships I've built the same thing from different angles. A Django document manager with real GDPR Article 17 erasure and role-based access control. A FastAPI violence-alert backend with JWT authentication, rate limiting, and a full STRIDE threat model. And now my final-year project: a real-time detection platform running on a hardened Ubuntu 26.04 host, with Terraform-managed Azure infrastructure and policy-as-code that blocks insecure setups before they reach the repo.
 
-The direction clicked during an internship where I ran the server side of an AI system. The model got all the attention, but the real challenge  was keeping the infrastructure secure and the training stable enough for  any of it to work. That's when infrastructure and security stopped being a task on a list and became the thing I want to be good at.
+The direction clicked during an internship where I ran the server side of an AI system. The model got all the attention, but the real challenge was keeping the infrastructure secure and the training stable enough for any of it to work. That's when infrastructure and security stopped being a task on a list and became the thing I want to be good at.
 
 The way I see it, most engineering work is becoming something an AI assistant can do. Security is different. It needs adversarial thinking, judgment under uncertainty, and a human who signs off when something breaks. That's the part I want to spend my time on.
 
@@ -109,9 +124,15 @@ Cloud Security for AI Systems
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nizar7kabbaj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4aa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7kabbaj&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<br />
+<br />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nizar7kabbaj&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=00d4aa" />
 
@@ -123,8 +144,11 @@ Cloud Security for AI Systems
 
 ### Open to collaboration on cloud security, DevSecOps, MLOps, and secure backend engineering.
 
-<a href="https://github.com/Nizar7kabbaj">
-  <img src="https://img.shields.io/badge/GitHub-Nizar7kabbaj-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/nizar-kabbaj/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nizar%20Kabbaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nizarkabbaj8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nizarkabbaj8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
