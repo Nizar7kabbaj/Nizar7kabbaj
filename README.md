@@ -118,14 +118,7 @@ Cloud Security for AI Systems
 ---
 
 ## GitHub Stats
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nizar7kabbaj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4aa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7kabbaj&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<br />
-<br />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nizar7kabbaj&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=00d4aa" />
 
